@@ -18,19 +18,19 @@ object Datasource {
                 name = R.string.salon_des_fleurs,
                 description = R.string.salon_des_fleurs_desc,
                 address = R.string.salon_des_fleurs_dir,
-                photo = R.drawable.genacvale
+                photo = R.drawable.salon_des_fleurs
             ),
             Place(
                 name = R.string.cofi,
                 description = R.string.cofi_desc,
                 address = R.string.cofi_dir,
-                photo = R.drawable.blackangus
+                photo = R.drawable.cofi
             ),
             Place(
                 name = R.string.cafe_del_art,
                 description = R.string.cafe_del_art_desc,
                 address = R.string.cafe_del_art_dir,
-                photo = R.drawable.sakurada
+                photo = R.drawable.cafe_del_art
             )
         )
     )
@@ -43,13 +43,13 @@ object Datasource {
                 name = R.string.charrua,
                 description = R.string.charrua_desc,
                 address = R.string.charrua_dir,
-                photo = R.drawable.beeracademy
+                photo = R.drawable.charrua
             ),
             Place(
                 name = R.string.aarde,
                 description = R.string.aarde_desc,
                 address = R.string.aarde_dir,
-                photo = R.drawable.dargett
+                photo = R.drawable.aarde
             )
         )
     )
@@ -61,13 +61,13 @@ object Datasource {
                 name = R.string.retiro,
                 description = R.string.retiro_desc,
                 address = R.string.retiro_dir,
-                photo = R.drawable.loverspark
+                photo = R.drawable.retiro
             ),
             Place(
                 name = R.string.casa_campo,
                 description = R.string.casa_campo_desc,
                 address = R.string.casa_campo_dir,
-                photo = R.drawable.victorypark
+                photo = R.drawable.casa_campo
             )
         )
     )
@@ -79,19 +79,19 @@ object Datasource {
                 name = R.string.xanadu,
                 description = R.string.xanadu_desc,
                 address = R.string.xanadu_dir,
-                photo = R.drawable.miniso
+                photo = R.drawable.xanadu
             ),
             Place(
                 name = R.string.vaguada,
                 description = R.string.vaguada_desc,
                 address = R.string.vaguada_dir,
-                photo = R.drawable.riomall
+                photo = R.drawable.vaguada
             ),
             Place(
                 name = R.string.islazul,
                 description = R.string.islazul_desc,
                 address = R.string.islazul_dir,
-                photo = R.drawable.tsiran
+                photo = R.drawable.islazul
             )
         )
     )
@@ -104,25 +104,25 @@ object Datasource {
                 name = R.string.giraluna,
                 description = R.string.giraluna_desc,
                 address = R.string.giraluna_dir,
-                photo = R.drawable.cascade
+                photo = R.drawable.giraluna
             ),
             Place(
                 name = R.string.ilusiona_diversia,
                 description = R.string.ilusiona_diversia_desc,
                 address = R.string.ilusiona_diversia_dir,
-                photo = R.drawable.metro
+                photo = R.drawable.ilusiona_diversia
             ),
             Place(
                 name = R.string.bosque_encantado,
                 description = R.string.bosque_encantado_desc,
                 address = R.string.bosque_encantado_dir,
-                photo = R.drawable.northernavenue
+                photo = R.drawable.bosque_encantado
             ),
             Place(
                 name = R.string.casa_raton,
                 description = R.string.casa_raton_desc,
                 address = R.string.casa_raton_dir,
-                photo = R.drawable.vernissage
+                photo = R.drawable.casa_raton
             )
         )
 
