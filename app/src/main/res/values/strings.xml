@@ -5,61 +5,61 @@
     <string name="golda_desc">Trabajan con cafés de especialidad y tienen una selección de tostadas para acompañarlos absolutamente irresistibles. Con ello logran que la comida saludable juegue un papel protagonista en la ciudad.</string>
     <string name="golda_dir">Orellana, 19</string>
 
-    <string name="genacvale_title">Genatsvale</string>
-    <string name="genacvale_description">A popular chain of Georgian restaurants that offers live music in some locations and a great menu of regional delicacies.</string>
-    <string name="genacvale_address">7 Kievyan St</string>
+    <string name="salon_des_fleurs">Salon des Fleurs</string>
+    <string name="salon_des_fleurs_desc">Comida orgánica y sostenible, y un café de primerísima calidad para que te escapes durante un buen rato de la realidad. Un trance, un viaje a través del tiempo, a lugares remotos al encuentro de formas, colores, olores y sabores, que nos transportan a un mundo mágico. </string>
+    <string name="salon_des_fleurs_dir">Villalar, 6</string>
 
-    <string name="black_angus_title">Black Angus</string>
-    <string name="black_angus_description">An up and coming premium burger restaurant that stands tall over its counterparts due to excellent service and delicious burgers.</string>
-    <string name="black_angus_address">2/5 Abovyan St</string>
+    <string name="cofi">Cofi</string>
+    <string name="cofi_desc">Un salón del té con mucho encanto, floristería y una tienda de regalos de lo más monos. Un auténtico trocito de la elegancia británica en pleno Madrid. Si queréis ir os recomendamos reservar antes ya que el espacio es limitado.</string>
+    <string name="cofi_dir">Guzmán el Bueno, 106</string>
 
-    <string name="sakurada_title">Sakurada</string>
-    <string name="sakurada_description">Founded by Japanese, this quaint restaurant located underneath a staircase at the intersection of Abovyan and Nalbandyan. Sakurada is famous for its homemade udon noodles, but it has more than that to offer. Here I tried Omurice for the first time. </string>
-    <string name="sakurada_address">23, 20 Nalbandyan St</string>
+    <string name="cafe_del_art">Cafe del Art</string>
+    <string name="cafe_del_art_desc">Decoración minimalista pero acogedora y un servicio que te hace sentir como en casa, por eso muchos lo eligen para arrancar el día sin presiones y con buen ambiente. Acércate durante el fin de semana para disfrutar del brunch y prueba sus panes de masa madre.</string>
+    <string name="cafe_del_art_dir">Acuerdo,36</string>
 
-    <string name="beer_academy_title">Beer Academy</string>
-    <string name="beer_academy_description">First craft beer restaurant in Yerevan, offering a small, yet refined selection of their own beer and assortment of delicious snacks and meals to go with it.</string>
-    <string name="beer_academy_address">8 Moskovyan Street</string>
+    <string name="charrua">Charrúa</string>
+    <string name="charrua_desc">Aquí rinden verdadero “culto al fuego” y de su parrilla vista salen exquisitos cortes de carne de diferentes países como Uruguay, Finlandia, Alemania y España. Su interior íntimo y acogedor envuelve al comensal con sus muebles de madera, sus cálidas mantas, sus palpitantes candelabros.</string>
+    <string name="charrua_dir">Conde de Xiquena,4</string>
 
-    <string name="dargett_title">Dargett</string>
-    <string name="dargett_description">A restaurant of a new craft beer brand that offers a great selection of beer and amazing service.</string>
-    <string name="dargett_address">72 Aram Street</string>
+    <string name="aarde">Aarde</string>
+    <string name="aarde_desc">Es un homenaje a las raíces del continente africano, a su tierra, a su música, a sus aromas, a su fauna y flora… Cada plato que sale de su cocina abierta cuenta una historia a través de sabores y texturas que invitan a dejarse llevar.</string>
+    <string name="aarde_dir">Plaza de la Independencia,10</string>
 
-    <string name="lovers_park_title">Lovers\' Park</string>
-    <string name="lovers_park_description">Formerly known as Pushkin\'s park, it was built in early 2010\'s, replacing rusty wrecks of amusement rides and unkempt trees and bushes with tidy alleys, flowerbeds and nice benches.</string>
-    <string name="lovers_park_address">21 Marshal Baghramyan Ave</string>
+    <string name="retiro">El Retiro</string>
+    <string name="retiro_desc">Considerado como una de las principales atracciones turísticas, posee figuras arquitectónicas y paisajísticas desde el siglo xvii al xxi, entre los que destacan el Monumento a Alfonso XII, el Palacio de Cristal, el Estanque Grande. Fue construido en la primera mitad del siglo xvii dentro del proyecto paisajístico desarrollado para el Palacio del Buen Retiro</string>
+    <string name="retiro_dir">Plaza de la Independencia, 7</string>
 
-    <string name="victory_park_title">Victory Park</string>
-    <string name="victory_park_description">The biggest park in Yerevan, located behind the Cascade. Built to commemorate victory in WWII. The park contains a museum with WWII items displayed inside and vehicles of war displayed outside, an amusement park, a lake and many alleys.</string>
-    <string name="victory_park_address">Azatutyan Ave</string>
+    <string name="casa_campo">Casa de Campo</string>
+    <string name="casa_campo_desc">Es un lugar declarado Bien de Interés Cultural como Sitio Histórico. Es el mayor parque público del municipio. Situado al oeste de la ciudad. El parque está prácticamente anexo al monte de El Pardo y tiene una extensión de 1722,6 hectáreas. El conjunto fue declarado Bien de Interés Cultural por la Comunidad de Madrid en 2010.</string>
+    <string name="casa_campo_dir">Paseo Puerta del Ángel, 1</string>
 
-    <string name="miniso_title">Miniso</string>
-    <string name="miniso_description">A trendy store chain of a Japanese brand of cosmetics, small appliances and everyday items.</string>
-    <string name="miniso_address">18/77, Northern Ave</string>
+    <string name="xanadu">Intu Xanadú</string>
+    <string name="xanadu_desc">Abrió sus puertas el viernes 16 de mayo de 2003 con gran éxito de público, lo cual provocó un atasco de 11 kilómetros de los 27 que la separan de la ciudad de Madrid. Desde el principio contó con la abierta oposición de empresarios, sindicatos y ecologistas de Madrid. El sindicato Comisiones Obreras (CC.OO.) denunció que se incumpliría el Decreto Ley 130/2002, que regula la apertura de comercios en días festivos.</string>
+    <string name="xanadu_dir">Autovía A-5, km 23.5</string>
 
-    <string name="tsiran_title">Tsiran Supermarket</string>
-    <string name="tsiran_description">A supermarket chain that stands out with the quality of service, good planning, affordable prices and decent selection of products.</string>
-    <string name="tsiran_address">2a Hrachya Kochar St</string>
+    <string name="islazul">Islazul</string>
+    <string name="islazul_desc">El edificio se llena de líneas curvas, suavizando un perfil que invita a disfrutarlo en un agradable paseo. Al acercarse, el visitante descubre una muestra de lo que va a encontrar en su interior: el agua y la naturaleza se unen en el diseño de los dos accesos peatonales que se adentran en el edificio.</string>
+    <string name="islazul_dir">Calle Calderilla</string>
 
-    <string name="rio_mall_title">Rio Mall</string>
-    <string name="rio_mall_description">A huge mall in the Arabkir district of Yerevan. It offers a wide range of shops, cafes and a cinema.</string>
-    <string name="rio_mall_address">8 Vahram Papazyan St</string>
+    <string name="vaguada">La Vaguada</string>
+    <string name="vaguada_desc">No sólo es el primer centro comercial que abrió en la ciudad, sino que además es el más rentable de toda España (y eso ya dice mucho). No es, ni mucho menos, el más grande (tiene una superficie de 85.000 metros cuadrados repartidos en 3 plantas superiores y 2 de aparcamiento), pero su oferta comercial y de ocio es lo que le da su caché.</string>
+    <string name="vaguada_dir">Avenida Monforte de Lemos, 36</string>
 
-    <string name="vernissage_title">Vernissage</string>
-    <string name="vernissage_description">On weekends, hundreds of painters and artisans display their work for tourists and locals in a park behind the Republic Square metro station. All kinds of hand-crafted curios, souvenirs and knick-knacks are available for purchase. The spot is especially popular with visiting diaspora to take a piece of homeland home with them. A part of the park is also used as a flea market.</string>
-    <string name="vernissage_address">1, 3 Buzand St</string>
+    <string name="casa_raton">La Nueva Casita del Ratón Pérez</string>
+    <string name="casa_raton_desc">Justo al nivel de la acera, acaba de aparecer un nuevo hogar de uno de los personajes infantiles más queridos de la ciudad, el Ratón Pérez. Recientemente ha sido nombrado embajador del turismo familiar de Madrid y es que, se dice, que corretea por la ciudad recogiendo los dientes de los más pequeños.</string>
+    <string name="casa_raton_dir">Calle Velázquez, 13</string>
 
-    <string name="cascade_title">Cascade</string>
-    <string name="cascade_description">A unique city monument in the center city center. For the most part it\'s literally a kilometer-long cascade of stairs. Due to its ambition and hard times the country fell on during the last stages of its construction its top part still stands unfinished to this day. In early 2000s a diaspora billionaire Astafyan subsidised its renovation and to this day inside the complex a museum in his name is located inside. The museum also serves as means to travel up and down on escalators for free, giving the opportunity to admire the philanthropist\'s peculiar collection of modern art on display. The outside portion of the cascade serves as a park, which due to the great view it offers and proximity to city center is always busy, from top to bottom.</string>
-    <string name="cascade_address">10 Tamanyan St</string>
+    <string name="giraluna">Giraluna</string>
+    <string name="giraluna_desc">Un mundo de magia y color lleno de animales y divertidas actividades es lo que van a encontrar lo más pequeños en este original espacio situado en un entorno rodeado de bosque mediterráneo.</string>
+    <string name="giraluna_dir">Carr. de Boadilla del Monte, km 15</string>
 
-    <string name="northern_avenue_title">Northern Avenue</string>
-    <string name="northern_avenue_description">Constructed in late 2000\'s, this broadwalk connects Republic Square and Opera Square and unifies the city center. Packed with brand shops, business centers and fancy restaurants, it quickly became the most visited place in Yerevan.</string>
-    <string name="northern_avenue_address">Northern Avenue</string>
+    <string name="bosque_encantado">El Bosque Encantado</string>
+    <string name="bosque_encantado_desc">Encantado con sus más de 300 esculturas verdes de dragones, princesas, bonsais y laberintos. No podía faltar en este espacio un arroyo y una de las pocas cascadas naturales de la Sierra Oeste. Todo muy mágico, sorprendente, y hasta onírico.</string>
+    <string name="bosque_encantado_dir">Camino Marañones, 217</string>
 
-    <string name="metro_title">Metro</string>
-    <string name="metro_description">It\'s only 10 stations long, but every station is a small architectural marvel with bold mix of avant-garde and classical designs. A convenient way to travel between most important parts of the city.</string>
-    <string name="metro_address">Republic Square &amp; other places</string>
+    <string name="ilusiona_diversia">Ilusionia Diversia</string>
+    <string name="ilusiona_diversia_desc">Bolera, parque infantil, arcade… es imposible aburrirse en Ilusiona Diversia. El espacio dedicado a los más pequeños en el centro comercial Heron Diversia. Solo el parque infantil tiene 2.000 metros cuadrados de espacios para jugar.</string>
+    <string name="ilusiona_diversia_dir">Av. de Bruselas, 21_23</string>
 
     <string name="cafeterias">Cafeterías</string>
     <string name="restaurantes">Restaurantes</string>

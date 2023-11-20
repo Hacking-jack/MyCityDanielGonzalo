@@ -15,21 +15,21 @@ object Datasource {
                 photo = R.drawable.golda
             ),
             Place(
-                name = R.string.genacvale_title,
-                description = R.string.genacvale_description,
-                address = R.string.genacvale_address,
+                name = R.string.salon_des_fleurs,
+                description = R.string.salon_des_fleurs_desc,
+                address = R.string.salon_des_fleurs_dir,
                 photo = R.drawable.genacvale
             ),
             Place(
-                name = R.string.black_angus_title,
-                description = R.string.black_angus_description,
-                address = R.string.black_angus_address,
+                name = R.string.cofi,
+                description = R.string.cofi_desc,
+                address = R.string.cofi_dir,
                 photo = R.drawable.blackangus
             ),
             Place(
-                name = R.string.sakurada_title,
-                description = R.string.sakurada_description,
-                address = R.string.sakurada_address,
+                name = R.string.cafe_del_art,
+                description = R.string.cafe_del_art_desc,
+                address = R.string.cafe_del_art_dir,
                 photo = R.drawable.sakurada
             )
         )
@@ -40,15 +40,15 @@ object Datasource {
         icon = R.drawable.bar_icon,
         list = listOf(
             Place(
-                name = R.string.beer_academy_title,
-                description = R.string.beer_academy_description,
-                address = R.string.beer_academy_address,
+                name = R.string.charrua,
+                description = R.string.charrua_desc,
+                address = R.string.charrua_dir,
                 photo = R.drawable.beeracademy
             ),
             Place(
-                name = R.string.dargett_title,
-                description = R.string.dargett_description,
-                address = R.string.dargett_address,
+                name = R.string.aarde,
+                description = R.string.aarde_desc,
+                address = R.string.aarde_dir,
                 photo = R.drawable.dargett
             )
         )
@@ -58,15 +58,15 @@ object Datasource {
         icon = R.drawable.nature_icon,
         list=listOf(
             Place(
-                name = R.string.lovers_park_title,
-                description = R.string.lovers_park_description,
-                address = R.string.lovers_park_address,
+                name = R.string.retiro,
+                description = R.string.retiro_desc,
+                address = R.string.retiro_dir,
                 photo = R.drawable.loverspark
             ),
             Place(
-                name = R.string.victory_park_title,
-                description = R.string.victory_park_description,
-                address = R.string.victory_park_address,
+                name = R.string.casa_campo,
+                description = R.string.casa_campo_desc,
+                address = R.string.casa_campo_dir,
                 photo = R.drawable.victorypark
             )
         )
@@ -76,21 +76,21 @@ object Datasource {
         icon=R.drawable.shops_icon,
         list = listOf(
             Place(
-                name = R.string.miniso_title,
-                description = R.string.miniso_description,
-                address = R.string.miniso_address,
+                name = R.string.xanadu,
+                description = R.string.xanadu_desc,
+                address = R.string.xanadu_dir,
                 photo = R.drawable.miniso
             ),
             Place(
-                name = R.string.rio_mall_title,
-                description = R.string.rio_mall_description,
-                address = R.string.rio_mall_address,
+                name = R.string.vaguada,
+                description = R.string.vaguada_desc,
+                address = R.string.vaguada_dir,
                 photo = R.drawable.riomall
             ),
             Place(
-                name = R.string.tsiran_title,
-                description = R.string.tsiran_description,
-                address = R.string.tsiran_address,
+                name = R.string.islazul,
+                description = R.string.islazul_desc,
+                address = R.string.islazul_dir,
                 photo = R.drawable.tsiran
             )
         )
@@ -101,27 +101,27 @@ object Datasource {
         icon = R.drawable.attractions_icon,
         list = listOf(
             Place(
-                name = R.string.cascade_title,
-                description = R.string.cascade_description,
-                address = R.string.cascade_address,
+                name = R.string.giraluna,
+                description = R.string.giraluna_desc,
+                address = R.string.giraluna_dir,
                 photo = R.drawable.cascade
             ),
             Place(
-                name = R.string.metro_title,
-                description = R.string.metro_description,
-                address = R.string.metro_address,
+                name = R.string.ilusiona_diversia,
+                description = R.string.ilusiona_diversia_desc,
+                address = R.string.ilusiona_diversia_dir,
                 photo = R.drawable.metro
             ),
             Place(
-                name = R.string.northern_avenue_title,
-                description = R.string.northern_avenue_description,
-                address = R.string.northern_avenue_address,
+                name = R.string.bosque_encantado,
+                description = R.string.bosque_encantado_desc,
+                address = R.string.bosque_encantado_dir,
                 photo = R.drawable.northernavenue
             ),
             Place(
-                name = R.string.vernissage_title,
-                description = R.string.vernissage_description,
-                address = R.string.vernissage_address,
+                name = R.string.casa_raton,
+                description = R.string.casa_raton_desc,
+                address = R.string.casa_raton_dir,
                 photo = R.drawable.vernissage
             )
         )
